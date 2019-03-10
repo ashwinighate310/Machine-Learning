@@ -1,2 +1,4 @@
 The multiple linear regression is used to explain the relationship between one continuous dependent variable and two or more independent variables. 
 The independent variables can be continuous or categorical.
+
+Simple linear regression is used to find the best fit line of a dataset. If the data isn't continuous, there really isn't going to be a best fit line
